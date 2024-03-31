@@ -14,9 +14,9 @@
 
 Experience `WaterPercent` in action by clicking on the demo videos below:
 
-[![Water Percent Example](https://via.placeholder.com/200x150?text=Click+to+Watch+Water+Percent+Example)](https://github.com/setayeshce/water-percent-vid/raw/main/water%20percent%20example.mp4)
+<video src="https://github.com/setayeshce/water-percent-vid/raw/main/water%20percent%20example.mp4" width="320" controls></video>
 
-[![Percent Example](https://via.placeholder.com/200x150?text=Click+to+Watch+Percent+Example)](https://github.com/setayeshce/water-percent-vid/raw/main/percent.mp4)
+<video src="https://github.com/setayeshce/water-percent-vid/raw/main/percent.mp4" width="320" controls></video>
 
 _Replace the placeholder images with actual thumbnails of your videos for a better visual representation._
 
