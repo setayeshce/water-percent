@@ -79,5 +79,5 @@ Contributions to `WaterPercent` are welcome! Whether it's reporting a bug, discu
 
 ---
 
-For more detailed examples, please refer to the `/example` folder. Should you have any questions or require further assistance, feel free to open an issue on our [GitHub repository](https://github.com/yourgithubusername/waterpercent/issues).
+For more detailed examples, please refer to the `/example` folder. Should you have any questions or require further assistance, feel free to open an issue on our [GitHub repository](https://github.com/setayeshce/water-percent/issues).
 ```
